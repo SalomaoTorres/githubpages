@@ -10,12 +10,7 @@ Body{
 
 img {
     width: 100px;
-    height: 100 px;
+    height: 100px;
     border-radius: 100%;
     border: 5px solid Black;
 
-}
-
-h1 {
-    text-align: center;
-}
