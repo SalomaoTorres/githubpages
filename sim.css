@@ -1,0 +1,21 @@
+Body{
+
+    background-image: linear-gradient(to right, rgb(70, 1, 70), rgb(247, 0, 115));
+
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 100 px;
+    border-radius: 100%;
+    border: 5px solid Black;
+
+}
+
+h1 {
+    text-align: center;
+}
